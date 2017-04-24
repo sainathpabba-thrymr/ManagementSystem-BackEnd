@@ -20,4 +20,8 @@ public class StudentBean {
 	private String identifcation2;
 
 	private Long studentMobileNumber;
+	
+	private String email;
+	
+	private String gender;
 }
